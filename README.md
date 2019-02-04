@@ -9,4 +9,4 @@ A compiled x86 exploit can be found under the [bin](bin) directory, it executes 
 [Add link]
 
 #### Poc image (Windows 10 x64)
-![PoC][poc.png]
+![PoC](poc.png)
