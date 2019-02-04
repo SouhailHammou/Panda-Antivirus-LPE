@@ -7,3 +7,6 @@ A compiled x86 exploit can be found under the [bin](bin) directory, it executes 
 
 ## Technical write-up
 [Add link]
+
+#### Poc image (Windows 10 x64)
+![PoC][poc.png]
