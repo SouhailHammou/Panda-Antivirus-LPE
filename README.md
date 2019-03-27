@@ -1,7 +1,7 @@
 # Panda Antivirus - Local Privilege Escalation (CVE-2019-7166)
 This is the exploit for a vulnerability I found in Panda Antivirus leading to escalation of privileges to SYSTEM.
 
-The affected products are : Versions <= 18.07.00 for Panda Dome, Panda Internet Security, Panda Antivirus Pro, Panda Global Protection, Panda Gold Protection, and old versions of Panda Antivirus >= 15.0.4.
+The affected products are : Versions <= 18.07.00 of Panda Dome, Panda Internet Security, Panda Antivirus Pro, Panda Global Protection, Panda Gold Protection, and old versions of Panda Antivirus >= 15.0.4.
 
 The issue has been fixed in the latest version 18.08.00 : (add link to advisory)
 
