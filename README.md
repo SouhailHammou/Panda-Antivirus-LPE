@@ -3,7 +3,7 @@ This is the exploit for a vulnerability I found in Panda Antivirus leading to es
 
 The affected products are : Versions <= 18.07.00 of Panda Dome, Panda Internet Security, Panda Antivirus Pro, Panda Global Protection, Panda Gold Protection, and old versions of Panda Antivirus >= 15.0.4.
 
-The issue has been fixed in the latest version 18.08.00 : (add link to advisory)
+The issue has been fixed in version 18.07.03 : (add link to advisory)
 
 A compiled x86 exploit can be found under the [bin](bin) directory, it executes as SYSTEM a dummy program that loops indefinitely. The compiled exploit is universal to all Windows versions and to all the products above.
 
