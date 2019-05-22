@@ -7,6 +7,8 @@ The issue has been fixed in version 18.07.03.
 
 A compiled x86 exploit can be found under the [bin](bin) directory, it executes as SYSTEM a dummy program that loops indefinitely. The compiled exploit is universal to all Windows versions and to all the products above.
 
+Link to advisory : https://www.pandasecurity.com/usa/support/card?id=100063
+
 ## Technical write-up
 https://rce4fun.blogspot.com/2019/05/panda-antivirus-local-privilege.html
 
